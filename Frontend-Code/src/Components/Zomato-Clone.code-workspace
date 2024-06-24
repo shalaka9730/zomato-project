@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../FSWD-Projects"
+		},
+		{
+			"path": "../../../../ZomatoClone"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FSWD-Projects"
+	}
+}
